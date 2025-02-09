@@ -84,5 +84,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For any issues or feature requests, please file an issue on [GitHub](https://github.com/LinGash/capacitor-meta-audience-network.git/issues).
+For any issues or feature requests, please file an issue on [GitHub](https://github.com/LinGash/capacitor-meta-audience-network/issues).
 
